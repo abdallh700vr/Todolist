@@ -1,6 +1,7 @@
 
 # Todo-list
 
+
 Hello i made this project to get more experience in the web development
 in this project i used React.js,MUi and uuid 
 
@@ -12,3 +13,6 @@ Todo-list Definition: A to-do list is a list of items that need to be completed.
 ## Lessons Learned
 
 i Learned how to use the mui,uuid,localstorge and react hooks 
+
+
+[Screencast from 07-19-2024 06:24:21 PM.webm](https://github.com/user-attachments/assets/ff364fcc-8ca0-461b-820a-ba66b7ddee61)
